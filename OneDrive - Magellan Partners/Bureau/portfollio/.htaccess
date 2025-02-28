@@ -1,0 +1,3 @@
+<FilesMatch "\.js$">
+    AddType application/javascript .js
+</FilesMatch>
